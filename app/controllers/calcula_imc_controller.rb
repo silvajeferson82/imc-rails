@@ -52,7 +52,7 @@ class CalculaImcController < ApplicationController
 			}
 		else	
 			@result = { 
-				"message" => "Não foi possivel culcular seu IMC"
+				"message" => "Não foi possivel calcular seu IMC"
 			}
 		end
 
